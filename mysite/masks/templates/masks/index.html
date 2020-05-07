@@ -1,0 +1,9 @@
+{% if latest_title_list %}
+    <ul>
+    {% for title in latest_title_list %}
+        <li><a href="/masks/{{ title.id }}/">{{ title.title }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No Masks are available.</p>
+{% endif %}
