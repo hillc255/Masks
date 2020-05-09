@@ -27,3 +27,8 @@ urlpatterns = [
 if settings.DEBUG:
         urlpatterns += static(settings.MEDIA_URL,
                               document_root=settings.MEDIA_ROOT)
+
+admin.site.site_header = "DIY Face Masks"
+admin.site.site_title = "DIY Face Mask Portal"
+admin.site.index_title = "Welcome to DIY Face Mask Portal"
+admin.site.site_url= 'http://127.0.0.1:8000/admin/'
