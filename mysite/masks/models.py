@@ -22,7 +22,7 @@ class Title(models.Model):
     resource = models.URLField(max_length=150,blank=True)
     level = models.CharField(max_length=6,choices=LEVEL_CHOICES, default=EASY,)
     update = models.DateTimeField(auto_now_add=True)
-    image = models.ImageField(upload_to='images/', blank=True, null=True)
+    image = models.ImageField(upload_to='images/', default='images/noimage.gif')
     pub_date = models.DateTimeField('date published', null=True)
    
     
