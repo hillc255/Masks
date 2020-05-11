@@ -31,11 +31,11 @@ Check-out [Masks website](https://masks.io/)
 
 Designed as project for Udemy's Complete Python Bootcamp course 2020 during the Coronavirus (COVID-19) lockdown and manditory wearing of facemasks in public.
 
-## &nbsp; Installation and Documentation
+## Installation and Documentation
 
 Clone this repository or create your own CMS project by following the [Django documentation and tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/).
 
-## &nbsp; Requirements
+## Requirements
 
 Masks CMS requires Python, Django and SQLite3 > 3.0.
 
@@ -46,5 +46,5 @@ Django  | 3.0.4
 SQLite3 | 3.29.0
 
 
-## &nbsp; License
+## License
 Masks CMS uses Django released under the under terms of the [MIT License](LICENSE).
