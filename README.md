@@ -24,6 +24,7 @@ Project for Udemy's "Complete Python Bootcamp" course 2020 during the Coronaviru
 * Mask Title
 * Materials
 * Link to Source
+* Level of Ease
 * Date Published
 * Thumbnail
 
