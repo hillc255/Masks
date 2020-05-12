@@ -32,7 +32,7 @@ mysite>python manage.py runserver |	#start server
 mysite>python manage.py makemigrations | #record changes to db
 mysite>python manage.py migrate |	#migrate changes to db
 https://sqlite.org/cli.html |	#sqlite3 command line shell
-mysite>sqlite3 db.sqlite3 |	#open sqlit3 shell
+mysite>sqlite3 db.sqlite3 |	#open sqlite3 shell
 sqlite>.help	|	#show sqlite3 commnds
 sqlite>.schema |	#show database schema
 sqlite>select * from masks_title; |	#run sql-like commands
