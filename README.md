@@ -3,16 +3,16 @@
 <p align="center">
  <kbd><img width="100" height="100" src="readme_assets/face_mask.gif"></kbd>
 
-&nbsp;
-* Masks is a content management system built on Django's "high-level Python web framework."
+<p>&nbsp;</p>
+* **Masks** is a content management system built on Django's "high-level Python web framework."
 * The application uses Django's Administration module to manage digital information in a dashboard format.
 * Sources to "do-it-yourself (DIY) face masks or coverings" found on public sites are displayed in the dashboard.
 
-&nbsp;
+<p>&nbsp;</p>
 <p align="center">
     <img width="80%" src="readme_assets/mask_slideshow.gif" alt="Masks Slideshow">
 </p>
-&nbsp;
+<p>&nbsp;</p>
 
 ## DB Features and Commands
 
