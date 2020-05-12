@@ -4,12 +4,6 @@
 </p>
 
 <br/>
-<p align="center">
-    <a href="https://sulu.io/" target="_blank">
-        <img width="50%" src="https://masks.io/website/images/masks.svg" alt="Masks logo">
-    </a>
-</p>
-
 
 [Masks](https://masks.io/) is a content management system built on Django's "high-level Python web framework" using primarily the Administration module.
 
@@ -32,7 +26,7 @@ Check-out [Masks website](https://masks.io/)
 
 ## Motivation
 
-Designed as a project for Udemy's Complete Python Bootcamp course 2020 during the Coronavirus (COVID-19) lockdown and manditory wearing of facemasks in public.
+Project for Udemy's "Complete Python Bootcamp" course 2020 during the Coronavirus (COVID-19) lockdown and manditory wearing of facemasks in public.
 
 ## Installation and Documentation
 
