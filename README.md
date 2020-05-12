@@ -7,12 +7,10 @@
 
 [Masks](https://masks.io/) is a content management system built on Django's "high-level Python web framework" using primarily the Administration module.
 
-Check-out [Masks website](https://masks.io/) 
-
 
 <br/>
 <p align="center">
-    <img width="80%" src="MASKS GIF MOVING FILE" alt="Masks Slideshow">
+    <img width="80%" src="readme_assets/mask_slideshow.gif" alt="Masks Slideshow">
 </p>
 <br/>
 
