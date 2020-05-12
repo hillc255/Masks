@@ -43,4 +43,4 @@ SQLite3 | 3.29.0
 
 
 ## License
-Masks CMS uses Django released under the under terms of the [MIT License](LICENSE).
+Masks uses Django released under the under terms of the [MIT License](LICENSE).
