@@ -7,7 +7,7 @@
 
 * Masks is a content management system built on Django's "high-level Python web framework."
 * The application uses Django's Administration module to manage digital information in a dashboard format.
-* Sources to DIY - do-it-yourself - face masks or coverings" found on public sites are displayed in the dashboard.
+* Sources to DIY "do-it-yourself" face masks or coverings found on public sites are displayed in the dashboard.
 
 <p>&nbsp;</p>
 <p align="center">
