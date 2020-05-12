@@ -31,7 +31,7 @@ Project for Udemy's "Complete Python Bootcamp" course 2020 during the Coronaviru
 
 Commands   | Notes
 ---------- | ---------
-[http://]127.0.0.1:8000/admin/login/?next=/admin/ | #clone git repo, login: admin/diymask
+127.0.0.1:8000/admin/login/?next=/admin/ | #clone git repo, login: admin/diymask
 https://docs.djangoproject.com/en/3.0/ | #Django documentation
 mysite>python manage.py runserver |	#start server
 mysite>python manage.py makemigrations | #record changes to db
