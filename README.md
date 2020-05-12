@@ -1,7 +1,7 @@
 
 ## Masks Application
 <p align="center">
- <kbd><img width="100" height="100" src="readme_assets/face_mask.gif"></kbd>
+ <kbd><img width="75" height="75" src="readme_assets/face_mask.gif"></kbd>
 
 <p>&nbsp;</p>
 
