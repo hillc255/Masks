@@ -8,7 +8,7 @@
 </p>
 
 
-[Masks](https://masks.io/) is a content management system which is built on Django's "high-level Python web framework" using primarily the Administration module.
+[Masks](https://masks.io/) is a content management system built on Django's "high-level Python web framework" using primarily the Administration module.
 
 Check-out [Masks website](https://masks.io/) 
 
@@ -29,7 +29,7 @@ Check-out [Masks website](https://masks.io/)
 
 ## Motivation
 
-Designed as project for Udemy's Complete Python Bootcamp course 2020 during the Coronavirus (COVID-19) lockdown and manditory wearing of facemasks in public.
+Designed as a project for Udemy's Complete Python Bootcamp course 2020 during the Coronavirus (COVID-19) lockdown and manditory wearing of facemasks in public.
 
 ## Installation and Documentation
 
