@@ -15,6 +15,10 @@
 </p>
 <p>&nbsp;</p>
 
+## Motivation
+
+Project for Udemy's "Complete Python Bootcamp" course 2020 during the Coronavirus (COVID-19) lockdown and manditory wearing of face masks in public.
+
 ## DB Features
 
 * Mask Title
@@ -38,10 +42,6 @@ sqlite>.help	|	#show sqlite3 commnds
 sqlite>.schema |	#show database schema
 sqlite>select * from masks_title; |	#run sql-like commands
 sqlite>.exit |	#exit command line shell
-
-## Motivation
-
-Project for Udemy's "Complete Python Bootcamp" course 2020 during the Coronavirus (COVID-19) lockdown and manditory wearing of face masks in public.
 
 ## Installation and Documentation
 
