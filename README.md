@@ -3,10 +3,10 @@
  <kbd><img width="100" height="100" src="readme_assets/face_mask.gif"></kbd>
 </p>
 
-# Masks
+## Masks
 
 
-[Masks](https://masks.io/) is a content management system built on Django's "high-level Python web framework" using primarily the Administration module.
+Masks is a content management system built on Django's "high-level Python web framework" using primarily the Administration module.
 
 
 <br/>
