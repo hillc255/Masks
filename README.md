@@ -1,4 +1,8 @@
-![Masks emoji](https://raw.github.com/hillc255/masks/readme/assets/facemask.png)
+![Masks emoji]<kbd><img src="readme_assets/facemask.png"><.kbd>
+
+<p align="center">
+ <kbd><img width="50" height="50" src="readme_assets/facemask.png"></kbd>
+</p>
 
 <br/>
 <p align="center">
