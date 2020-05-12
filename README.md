@@ -1,7 +1,7 @@
-![Masks emoji]<kbd><img src="readme_assets/facemask.png"><.kbd>
+![Masks emoji]<kbd><img src="readme_assets/facea_mask.gif"><.kbd>
 
 <p align="center">
- <kbd><img width="50" height="50" src="readme_assets/facemask.png"></kbd>
+ <kbd><img width="50" height="50" src="readme_assets/face_mask.gif"></kbd>
 </p>
 
 <br/>
