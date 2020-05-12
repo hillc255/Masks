@@ -15,14 +15,15 @@
 </p>
 <p>&nbsp;</p>
 
-## DB Features and Commands
+## DB Features
 
-* Article Title
-* Mask Materials
+* Mask Title
+* Materials
 * Link to Source
 * Date Published
 * Thumbnail
 
+## Commands
 
 Commands   | Notes
 ---------- | ---------
@@ -36,7 +37,6 @@ sqlite>.help	|	#show sqlite3 commnds
 sqlite>.schema |	#show database schema
 sqlite>select * from masks_title; |	#run sql-like commands
 sqlite>.exit |	#exit command line shell
-
 
 ## Motivation
 
