@@ -11,7 +11,7 @@
 
 <p>&nbsp;</p>
 <p align="center">
-    <img width="80%" src="readme_assets/mask_slideshow.gif" alt="Masks Slideshow">
+    <img width="80%" src="readme_assets/mask.gif" alt="Masks Slideshow">
 </p>
 <p>&nbsp;</p>
 
